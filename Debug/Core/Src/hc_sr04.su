@@ -1,0 +1,2 @@
+HC_SR04.cpp:10:6:void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef*)	24	static
+HC_SR04.cpp:33:9:uint8_t HC_SR04::read()	16	static
