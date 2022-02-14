@@ -1,8 +1,0 @@
-tcp_client.c:21:6:tcp_client_init	16	static
-tcp_client.c:28:14:tcp_client_connected_callback	40	static
-tcp_client.c:61:14:tcp_client_recv_callback	24	static
-tcp_client.c:88:14:tcp_client_poll_callback	16	static
-tcp_client.c:101:14:tcp_client_ack_callback	24	static
-tcp_client.c:113:13:tcp_client_send	24	static
-tcp_client.c:138:13:tcp_client_disconnect	16	static
-tcp_client.c:152:13:tcp_client_handle	1096	static

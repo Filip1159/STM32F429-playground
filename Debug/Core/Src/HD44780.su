@@ -1,9 +1,0 @@
-HD44780.cpp:3:6:void HD44780::write_upper(uint8_t)	16	static
-HD44780.cpp:10:6:void HD44780::write_lower(uint8_t)	16	static
-HD44780.cpp:17:6:void HD44780::init()	16	static
-HD44780.cpp:41:6:void HD44780::command(uint8_t)	16	static
-HD44780.cpp:55:6:void HD44780::charXY(uint8_t, uint8_t, uint8_t)	16	static
-HD44780.cpp:63:6:void HD44780::writeChar(char)	16	static
-HD44780.cpp:77:6:void HD44780::string(char*)	24	static
-HD44780.cpp:83:6:void HD44780::stringXY(uint8_t, uint8_t, char*)	24	static
-HD44780.cpp:91:6:void HD44780::clear()	16	static

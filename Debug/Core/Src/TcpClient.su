@@ -1,8 +1,0 @@
-TcpClient.cpp:8:6:static void TcpClient::init()	16	static
-TcpClient.cpp:15:7:static err_t TcpClient::connectedCallback(void*, tcp_pcb*, err_t)	104	static
-TcpClient.cpp:46:7:static err_t TcpClient::recvCallback(void*, tcp_pcb*, pbuf*, err_t)	32	static
-TcpClient.cpp:73:7:static err_t TcpClient::pollCallback(void*, tcp_pcb*)	24	static
-TcpClient.cpp:86:7:static err_t TcpClient::ackCallback(void*, tcp_pcb*, u16_t)	32	static
-TcpClient.cpp:98:6:static void TcpClient::send(tcpClientDetails*)	32	static
-TcpClient.cpp:123:6:static void TcpClient::disconnect(tcp_pcb*, tcpClientDetails*)	16	static
-TcpClient.cpp:137:6:static void TcpClient::handle(tcp_pcb*, tcpClientDetails*)	1096	static
